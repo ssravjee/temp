@@ -3,3 +3,5 @@
 /.idea/workspace.xml
 .terraform
 .idea
+terraform.tfstate
+terraform.tfstate.backup
